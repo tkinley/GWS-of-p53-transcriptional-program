@@ -2,7 +2,7 @@
 ## Preface
 In reference to the YouTube guide by Alex Soupir, which provided instructions for analyzing RNA-Seq data from the publication "Genome-wide Analysis of p53 Transcriptional Programs in B Cells upon Exposure to Genotoxic Stress In Vivo," I have performed the analysis using the Nextflow nf.core pipeline instead of the traditional Bash method used in the guide. The analysis focuses solely on the sequences obtained from B cells isolated from the spleen, excluding the non-B cells obtained from the SRA Run Selector on NCBI.
 
-##Background
+## Background
 
 This study utilizes data obtained from B cells isolated from mouse spleens that were exposed to ionizing radiation. The aim is to compare the data from mice with and without a functional p53 gene.
 
